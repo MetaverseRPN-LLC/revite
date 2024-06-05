@@ -294,7 +294,7 @@ export const PRESETS: Record<string, Theme> = {
         background: "#151515",
         foreground: "#CCCCCC",
         block: "#2D2D2D",
-        "message-box": "#1f1f1f1f",
+        "message-box": "#1f1f1f",
         mention: "#1E1E1E",
         success: "#1c8228",
         warning: "#ACAE37",
